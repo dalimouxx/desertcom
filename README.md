@@ -1,0 +1,27 @@
+# Desertcom V1
+
+Site vitrine de Desertcom, agence digitale fondée et dirigée par Mohamed Ali Moussa.
+
+## Contenu
+
+- Présentation des expertises, de la méthode et de la vision du CEO.
+- Portfolio de quatre réalisations réelles : Tunicommerce, Study in World, Fixi Web et Restaurant App.
+- Fiches détaillées avec liens vers les plateformes en ligne et les dépôts GitHub disponibles.
+- Liens vers le portfolio GitHub, le profil GitHub et LinkedIn de Mohamed Ali Moussa.
+- Formulaire de contact connecté à l’API tRPC et à la base de données.
+
+Les contenus du portfolio sont centralisés dans `src/data/portfolio.ts`. Les composants `src/components/Brand.tsx` et `public/favicon.svg` constituent les logos d’origine et sont conservés sans modification.
+
+## Stack
+
+React 19, TypeScript, Vite, Tailwind CSS, tRPC, Drizzle ORM et Hono. Les aperçus de projets sont dessinés en HTML/CSS avec des icônes Lucide, sans image externe.
+
+## Commandes
+
+```bash
+npm install
+npm run dev       # développement sur le port 3000
+npm run check     # contrôle TypeScript
+npm run build     # build client et serveur dans dist/
+npm start         # exécution de production
+```
