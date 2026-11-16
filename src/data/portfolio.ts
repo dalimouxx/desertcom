@@ -7,7 +7,7 @@ export const identity = {
   email: "dalimoussa00@gmail.com",
 };
 
-export const portfolioUrl = "https://github.com/dalimouxx/portfolio";
+export const portfolioUrl = "https://portfolio-aesd.vercel.app/";
 export const socials = {
   github: "https://github.com/dalimouxx",
   linkedin: "https://www.linkedin.com/in/mohamed-ali-moussa-75b98438b/",
